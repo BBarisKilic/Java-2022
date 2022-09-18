@@ -1,0 +1,17 @@
+
+Z
+java:S2583"DChange this condition so that it does not always evaluate to "false"(â°Ó„
+S
+java:S1854"8Remove this useless assignment to local variable "vade".(ØÑÅÊúÿÿÿÿ
+V
+java:S1854"@Remove this useless assignment to local variable "dolarDustuMu".(ËŽð
+V
+java:S1854"@Remove this useless assignment to local variable "dolarDustuMu".(¥‹…ý
+V
+java:S1854"@Remove this useless assignment to local variable "dolarDustuMu".(¥‹…ý
+D
+java:S1481")Remove this unused "vade" local variable.(ØÑÅÊúÿÿÿÿ
+L
+java:S1481"1Remove this unused "dolarDustuMu" local variable.(ê»þŽþÿÿÿÿ
+`
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator ">"(â°Ó„
