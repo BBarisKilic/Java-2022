@@ -1,8 +1,12 @@
 # <p align="center">Java & Spring 2022 Camp</p>
 
+<div align="center">
+
 ![Java][java]
 
-This repository contains projects those have been developed during the Java & Spring 2022 Camp which held by [kodlama.io].
+</div>
+
+This repository contains projects developed during the Java & Spring 2022 Camp held by [kodlama.io].
 
 ## Used Technologies
 
@@ -10,7 +14,7 @@ This repository contains projects those have been developed during the Java & Sp
 - `Spring Boot`
 
 
-Please check camp [details].
+To learn more, please check the camp [details].
 
 [java]: art/java.png
 [kodlama.io]: https://www.kodlama.io/
