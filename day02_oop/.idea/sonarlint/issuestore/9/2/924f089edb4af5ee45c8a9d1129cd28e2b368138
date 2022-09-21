@@ -1,0 +1,9 @@
+
+f
+java:S1192
+"KDefine a constant instead of duplicating this literal "random.png" 3 times.(£·í¢ûÿÿÿÿ
+X
+java:S18541"=Remove this useless assignment to local variable "customers".(®™¼›ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Þ—»Þ
+I
+java:S14811".Remove this unused "customers" local variable.(®™¼›ùÿÿÿÿ
