@@ -1,10 +1,6 @@
 # <p align="center">Java & Spring 2022 Camp</p>
 
-<div align="center">
-
-![Java][java]
-
-</div>
+<p align="center"><img src="art/java.png" width='600'></p>
 
 This repository contains projects developed during the Java & Spring 2022 Camp held by [kodlama.io].
 
@@ -16,6 +12,5 @@ This repository contains projects developed during the Java & Spring 2022 Camp h
 
 To learn more, please check the camp [details].
 
-[java]: art/java.png
 [kodlama.io]: https://www.kodlama.io/
 [details]: https://www.kodlama.io/p/yazilim-gelistirici-yetistirme-kampi21
